@@ -1,5 +1,6 @@
 {
     "name": "felipeaz/ciplus",
+    "minimum-stability":"dev",
     "authors": [
         {
             "name": "Felipe Azambuja",
